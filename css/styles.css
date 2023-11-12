@@ -1,5 +1,4 @@
 
-
 * {
   box-sizing: border-box;
 }
@@ -30,16 +29,21 @@ body {
 }
 h1 {
   text-align: center;
-  font-size: 60px;
-  color: green;
+  font-size: 80px;
+  color: yellow;
+  font-weight: bolder;
 }
 h2 {
   text-align: center;
-  font-size: 30px;
-  color:yellow;
+  font-size: 40px;
+  font-weight: bolder;
+  color: yellow;
 }
 h3 {
   text-color:white;
+  font-size: 20px;
+  font-weight: bolder;
+  color: yellow;
 }
 .header h1 {
   font-size: 50px;
@@ -55,11 +59,10 @@ h3 {
 /* Style the topnav links */
 .topnav a {
   float: right;
-  font-size: 40px;
   display: block;
   color:yellow;
   text-align: center;
-  padding: 4px 46px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
@@ -109,7 +112,7 @@ h3 {
 .footer {
   padding: 5px;
   text-align: center;
-  background: black;
+  background: blue;
   margin-top: 10px;
 }
 
